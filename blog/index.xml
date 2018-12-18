@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 华中科技大学澳大利亚校友会</title>
+    <link>http://www.hustaa.org.au/blog/</link>
+    <description>Recent content in Blogs on 华中科技大学澳大利亚校友会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 16:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.hustaa.org.au/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>华中科技大学澳大利亚校友会成立</title>
+      <link>http://www.hustaa.org.au/blog/2018/11/05/hustaa-estb/</link>
+      <pubDate>Mon, 05 Nov 2018 16:50:46 +0200</pubDate>
+      
+      <guid>http://www.hustaa.org.au/blog/2018/11/05/hustaa-estb/</guid>
+      <description>&lt;p&gt;2018年10月30日，华中科技大学澳大利亚校友会（HUSTAA）揭牌仪式在悉尼 InterContinental酒店的Premier宴会厅举行！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

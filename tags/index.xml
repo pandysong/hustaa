@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 华中科技大学澳大利亚校友会</title>
+    <link>http://www.hustaa.org.au/tags/</link>
+    <description>Recent content in Tags on 华中科技大学澳大利亚校友会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.hustaa.org.au/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>成立大会</title>
+      <link>http://www.hustaa.org.au/tags/%E6%88%90%E7%AB%8B%E5%A4%A7%E4%BC%9A/</link>
+      <pubDate>Mon, 05 Nov 2018 16:50:46 +0200</pubDate>
+      
+      <guid>http://www.hustaa.org.au/tags/%E6%88%90%E7%AB%8B%E5%A4%A7%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>校领导</title>
+      <link>http://www.hustaa.org.au/tags/%E6%A0%A1%E9%A2%86%E5%AF%BC/</link>
+      <pubDate>Mon, 05 Nov 2018 16:50:46 +0200</pubDate>
+      
+      <guid>http://www.hustaa.org.au/tags/%E6%A0%A1%E9%A2%86%E5%AF%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗歌</title>
+      <link>http://www.hustaa.org.au/tags/%E8%AF%97%E6%AD%8C/</link>
+      <pubDate>Thu, 15 Nov 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.hustaa.org.au/tags/%E8%AF%97%E6%AD%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
