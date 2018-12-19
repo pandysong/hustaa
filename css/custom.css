@@ -43,3 +43,7 @@
     white-space: nowrap;
     font-family: NSimSun,FangSong;
 }
+
+.link {
+    margin: 25px;
+}
