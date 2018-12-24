@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.hustaa.org.au/blog/2018/11/24/christmas-2018/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.hustaa.org.au/poem/poem5/</loc>
     <lastmod>2018-11-15T13:50:46+02:00</lastmod>
   </url>
@@ -38,14 +33,8 @@
   </url>
   
   <url>
-    <loc>http://www.hustaa.org.au/tags/2018/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.hustaa.org.au/blog/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
+    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +51,6 @@
   
   <url>
     <loc>http://www.hustaa.org.au/tags/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,13 +60,7 @@
   
   <url>
     <loc>http://www.hustaa.org.au/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/tags/%E5%9C%A3%E8%AF%9E%E7%A5%9D%E8%AF%8D/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
+    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +72,7 @@
   
   <url>
     <loc>http://www.hustaa.org.au/categories/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2018-11-24T10:00:46+03:00</lastmod>
+    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
