@@ -1,156 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://www.hustaa.org.au/blog/2019/02/19/lantern-festival-2019/</loc>
-    <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/blog/2018/12/24/christmas-2018/</loc>
-    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/poem5/</loc>
-    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/blog/2018/11/05/hustaa-estb/</loc>
-    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/poem2/</loc>
-    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/poem3/</loc>
-    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/poem1/</loc>
-    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/committee/</loc>
-    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/tags/2018/</loc>
-    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>http://www.hustaa.org.au/tags/2019/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.hustaa.org.au/blog/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.hustaa.org.au/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/</loc>
-    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-02-19T20:17:46+11:00</lastmod>
+  </url><url>
     <loc>http://www.hustaa.org.au/tags/</loc>
-    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-02-19T20:17:46+11:00</lastmod>
+  </url><url>
     <loc>http://www.hustaa.org.au/tags/%E5%85%83%E5%AE%B5%E8%8A%82/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/aboutus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.hustaa.org.au/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/tags/%E5%9C%A3%E8%AF%9E%E7%A5%9D%E8%AF%8D/</loc>
-    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/tags/%E6%88%90%E7%AB%8B%E5%A4%A7%E4%BC%9A/</loc>
-    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.hustaa.org.au/categories/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.hustaa.org.au/tags/%E6%A0%A1%E5%8F%8B%E4%BC%9A/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/categories/%E6%A0%A1%E5%8F%8B%E6%96%87%E5%9D%9B/</loc>
-    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/poem/poem4/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/tags/%E6%A0%A1%E9%A2%86%E5%AF%BC/</loc>
-    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.hustaa.org.au/blog/2019/02/19/lantern-festival-2019/</loc>
+    <lastmod>2019-02-19T20:17:46+11:00</lastmod>
+  </url><url>
     <loc>http://www.hustaa.org.au/tags/%E8%81%94%E6%AC%A2%E4%BC%9A/</loc>
     <lastmod>2019-02-19T20:17:46+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.hustaa.org.au/contacts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.hustaa.org.au/tags/2018/</loc>
+    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/blog/2018/12/24/christmas-2018/</loc>
+    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/tags/%E5%9C%A3%E8%AF%9E%E7%A5%9D%E8%AF%8D/</loc>
+    <lastmod>2018-12-24T01:00:46+08:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/</loc>
+    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/poem5/</loc>
+    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/categories/%E6%A0%A1%E5%8F%8B%E6%96%87%E5%9D%9B/</loc>
+    <lastmod>2018-11-15T13:50:46+02:00</lastmod>
+  </url><url>
     <loc>http://www.hustaa.org.au/tags/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2018-11-15T13:50:46+02:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>http://www.hustaa.org.au/blog/2018/11/05/hustaa-estb/</loc>
+    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/tags/%E6%88%90%E7%AB%8B%E5%A4%A7%E4%BC%9A/</loc>
+    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/tags/%E6%A0%A1%E9%A2%86%E5%AF%BC/</loc>
+    <lastmod>2018-11-05T16:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/poem2/</loc>
+    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/poem3/</loc>
+    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/poem1/</loc>
+    <lastmod>2018-11-02T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/committee/</loc>
+    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
+  </url><url>
+    <loc>http://www.hustaa.org.au/aboutus/</loc>
+  </url><url>
+    <loc>http://www.hustaa.org.au/poem/poem4/</loc>
+  </url><url>
+    <loc>http://www.hustaa.org.au/contact/</loc>
+  </url><url>
+    <loc>http://www.hustaa.org.au/contacts/</loc>
   </url>
-  
 </urlset>

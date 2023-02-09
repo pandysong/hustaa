@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 华中科技大学澳大利亚校友会</title>
@@ -6,10 +6,7 @@
     <description>Recent content in Categories on 华中科技大学澳大利亚校友会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://www.hustaa.org.au/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Feb 2019 20:17:46 +1100</lastBuildDate><atom:link href="http://www.hustaa.org.au/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新闻</title>
       <link>http://www.hustaa.org.au/categories/%E6%96%B0%E9%97%BB/</link>
