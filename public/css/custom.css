@@ -1,0 +1,50 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.cmember_summary{
+    text-align: left;
+}
+#blog-post img {
+  width: 100%;
+}
+
+.navbar-description {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 7px 0px;
+    height: 12px;
+    white-space: nowrap;
+    font-family: NSimSun,FangSong ;
+}
+.navbar-sub-description {
+    font-size: 10px;
+    padding: 3px 0px;
+    height: 10px;
+    white-space: nowrap;
+    font-family: NSimSun,FangSong;
+}
+
+.link {
+    margin: 25px;
+    font-size: 17px;
+}
